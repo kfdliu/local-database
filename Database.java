@@ -102,7 +102,7 @@ public class Database
 	viewDatabase (c1, c2, c3, c4, c5, count); // Displays the database for the user to choose an entry number
 	System.out.print ("\nWhich entry would you like to change? (entry #, enter 0 to go back) ");
 
-	response = validateEntryNumber (count, stdin); // Recieves and validates the users input so that it can be converted into an int
+	response = validateEntryNumber (count, stdin); // Receives and validates the users input so that it can be converted into an int
 	responseInt = Integer.parseInt (response); // Convert the response into an int so it can be used in a loop
 
 	if (responseInt != 0) // Will only change an entry if the user enters a number other than 0 (entering 0 returns ot the menu)
@@ -1558,7 +1558,7 @@ public class Database
 	boolean credentials, exit = false; // Booleans to check if credentials are correct and if the user wants to exit
 	char choice1, choice2; // Stores the first and second menu choices
 
-	openReadMe (); // Opens the readme.txt file for the user to read
+	//openReadMe (); // Opens the readme.txt file for the user to read
 	openingScreen (); // Plays the program opening sequence
 
 	while (!exit) // Loops program until user chooses to exit (exit = true)

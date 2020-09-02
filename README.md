@@ -1,7 +1,7 @@
 # local-database
 
 **| ~ Super Cool Database Manager ~ |\
-| ~     Davis Liu - June 2019     ~ |**
+| ~     Davis Liu - May 2019     ~ |**
 
 **What is This?**\
 The Super Cool Database Manager is a text-based and menu-driven database manager written in java that is able to create, edit and manage custom local databases.
