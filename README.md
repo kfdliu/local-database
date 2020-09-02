@@ -86,18 +86,18 @@ C. Exit
 - Prints the database for the user to view in an organized manner
 
 2. Edit Database\
-*Add Entry->*
+*~Add Entry->*\
 - Allows the user to add an entry into the database 
 - Max 21 characters per category in the entry
 - Blank input sets category in the entry to "N/A" 
-*Delete Entry->*
 
+*~Delete Entry->*\
 - Deletes a specific entry from the database	
-*Change Entry->*
 
+*~Change Entry->*\
 - Allows the user to change a single entry of choice in the database
-Max 21 characters per category in the entry
-Blank input sets category in the entry to "N/A"
+- Max 21 characters per category in the entry
+- Blank input sets category in the entry to "N/A"
 
 3. Search for Entry
 - Allows the user to search for a value under any of the five categories
