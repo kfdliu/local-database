@@ -85,13 +85,16 @@ C. Exit
 1. View Collection
 - Prints the database for the user to view in an organized manner
 
-2. Edit Database\
+2. Edit Database
+
  *~Add Entry->*
 - Allows the user to add an entry into the database 
 - Max 21 characters per category in the entry
-- Blank input sets category in the entry to "N/A"\ 
+- Blank input sets category in the entry to N/A
+
  *~Delete Entry->*
-- Deletes a specific entry from the database\
+- Deletes a specific entry from the database
+
  *~Change Entry->*
 - Allows the user to change a single entry of choice in the database
 - Max 21 characters per category in the entry
